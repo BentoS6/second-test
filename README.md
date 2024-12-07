@@ -1,3 +1,3 @@
-# hello
+# Hello
 
-## i wont make the same mistake again
+## I wont make the same mistake again
